@@ -24,4 +24,4 @@ gem 'rack-test', '~> 0.6.3'
 gem 'url_safe_base64'
 gem 'headless'
 
-gem 'basicMath', :git => 'https://github.com/ulutasalkan/test-gem.git'
+gem 'basicMath', :git => 'https://github.com/ulutasalkan/test-gem/tree/master.git'
