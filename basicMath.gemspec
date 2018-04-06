@@ -10,7 +10,7 @@ Gem::Specification.new do |s|
   s.email = %q{aulutas@ziraatteknoloji.com}
   s.files = ["lib/basicMath.rb"]
   s.test_files = ["test/test_basicMath.rb"]
-  s.homepage = %q{https://github.com/ulutasalkan/test-gem}
+  s.homepage = 'https://github.com/ulutasalkan/test-gem/tree/master'  
   s.require_paths = ["lib"]
   s.rubygems_version = %q{1.6.2}
   s.summary = %q{Math!}
