@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name               = "basicMath"
-  s.version            = "0.0.3"
+  s.version            = "0.0.4"
   s.default_executable = "basicMath"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
